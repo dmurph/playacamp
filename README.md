@@ -4,7 +4,7 @@ A Django app for managing a Burning Man camp
 
 ## Running Locally
 
-Make sure you have Python [installed properly](http://install.python-guide.org).  Also, install the [Heroku Toolbelt](https://toolbelt.heroku.com/) and [Postgres](https://devcenter.heroku.com/articles/heroku-postgresql#local-setup).
+Make sure you have Python [installed properly](http://docs.python-guide.org/en/latest/starting/installation/).  Also, install the [Heroku Toolbelt](https://toolbelt.heroku.com/) and [Postgres](https://devcenter.heroku.com/articles/heroku-postgresql#local-setup).
 
 ```sh
 $ git clone git@github.com:mhahnenberg/playacamp.git
